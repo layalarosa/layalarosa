@@ -25,7 +25,7 @@ Hi! I'm a Full-Stack software and web developer with a strong affinity for C# an
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Layalarosa&" alt="layalarosa" /></p>-->
 
-<h2>GitHub :octocat:</h2>
+<h2>:octocat: GitHub</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
