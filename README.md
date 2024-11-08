@@ -30,6 +30,6 @@ Version Control
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Layalarosa&show_icons=true&locale=en&layout=compact" alt="layalarosa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Layalarosa&show_icons=true&locale=en" alt="layalarosa" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Layalarosa&show_icons=true&locale=en" alt="layalarosa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Layalarosa&" alt="layalarosa" /></p>
