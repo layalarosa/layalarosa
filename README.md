@@ -55,7 +55,7 @@ Hi! I'm a Full-Stack software and web developer with a strong affinity for C# an
   </tr>
   <tr>
     <td>
-      <img src="assets/Weather.jpeg" alt="Weather" width="300" height="200">
+      <img src="assets/Weather.jpg" alt="Weather" width="300" height="200">
     </td>
     <td>
       <h3>Weather App</h3>
