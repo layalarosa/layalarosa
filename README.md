@@ -46,7 +46,7 @@ Hi! I'm a Full-Stack software and web developer with a strong affinity for C# an
     </td>
     <td>
       <h3>Web Store</h3>
-      <p>Web Store</p>
+      <p>Web Application MVC</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" alt="CS"></a> 
       <br>
