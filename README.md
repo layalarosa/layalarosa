@@ -34,7 +34,7 @@ Hi! I'm a Full-Stack software and web developer with a strong affinity for C# an
     </td>
     <td>
       <h3>Portfolio</h3>
-      <p>My personal portfolio where I showcase my projects and skills.</p>
+      <p>Portfolio</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,bootstrap,js" alt="HTML, Bootstrap, JS"></a><br>
       <a href="https://professionalportfolio2024.netlify.app/">View project</a>
@@ -46,7 +46,7 @@ Hi! I'm a Full-Stack software and web developer with a strong affinity for C# an
     </td>
     <td>
       <h3>Web Store</h3>
-      <p>Porfolio</p>
+      <p>Web Store</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" alt="CS"></a> 
       <br>
