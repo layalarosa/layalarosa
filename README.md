@@ -30,7 +30,7 @@ Hi! I'm a Full-Stack software and web developer with a strong affinity for C# an
 <table>
   <tr>
     <td>
-      <!--<img src="assets/porfolio.png" alt="Portfolio" width="300" height="200">-->
+      <img src="assets/Porfolio.png" alt="Portfolio" width="300" height="200">
     </td>
     <td>
       <h3>Portfolio</h3>
@@ -42,7 +42,7 @@ Hi! I'm a Full-Stack software and web developer with a strong affinity for C# an
   </tr>
   <tr>
     <td>
-      <!--<img src="assets/store.jpeg" alt="Web Store" width="300" height="200">-->
+      <img src="assets/Store.jpg" alt="Web Store" width="300" height="200">
     </td>
     <td>
       <h3>Web Store</h3>
@@ -55,7 +55,7 @@ Hi! I'm a Full-Stack software and web developer with a strong affinity for C# an
   </tr>
   <tr>
     <td>
-      <!--<img src="assets/weather.jpeg" alt="Weather" width="300" height="200">-->
+      <img src="assets/Weather.jpeg" alt="Weather" width="300" height="200">
     </td>
     <td>
       <h3>Weather App</h3>
