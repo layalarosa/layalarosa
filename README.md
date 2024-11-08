@@ -4,7 +4,7 @@
 Hi! I'm a Full-Stack software and web developer with a strong affinity for C# and the .NET ecosystem. I specialize in building robust and scalable solutions, both on the frontend and backend. Currently, I work with technologies such as ASP.NET Core and Angular, leveraging modern tools like Entity Framework for database management, and Visual Studio as my preferred development environment. Additionally, I have experience with version control in Git and GitHub, which allows me to efficiently collaborate on projects of different scales.
 
 
-<h3>technologies</h3>
+<h2>Technologies</h2>
 
 
 <h2>FrontEnd</h2>
