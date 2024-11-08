@@ -26,8 +26,10 @@ Version Control
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkandeveloper&show_icons=true&locale=en&layout=compact" alt="layalarosa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkandeveloper&show_icons=true&locale=en" alt="layalarosa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkandeveloper&" alt="layalarosa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Layalarosa&show_icons=true&locale=en&layout=compact" alt="layalarosa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Layalarosa&show_icons=true&locale=en" alt="layalarosa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Layalarosa&" alt="layalarosa" /></p>
