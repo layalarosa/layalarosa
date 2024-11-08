@@ -25,6 +25,52 @@ Hi! I'm a Full-Stack software and web developer with a strong affinity for C# an
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Layalarosa&" alt="layalarosa" /></p>-->
 
+## Projects
+
+<table>
+  <tr>
+    <td>
+      <!--<img src="" alt="Portfolio project image" width="300" height="200">-->
+    </td>
+    <td>
+      <h3>Portfolio</h3>
+      <p>My personal portfolio where I showcase my projects and skills.</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="HTML, Bootstrap, JS"></a><br>
+      <a href="https://professionalportfolio2024.netlify.app/">View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!--<img src="" alt="Currency Converter image" width="300" height="200">-->
+    </td>
+    <td>
+      <h3>Web Store</h3>
+      <p>Porfolio</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" alt="CS"></a> 
+      <br>
+      <a href="https://github.com/layalarosa">View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!--<img src="" alt="Password Generator image" width="300" height="200">-->
+    </td>
+    <td>
+      <h3>Weather App</h3>
+      <p>Weather App in Html, Css, Javascript</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,cs" alt="HTML, CSS, JS"></a><br>
+      <a href="https://github.com/layalarosa">View project</a>
+    </td>
+  </tr>
+</table>
+
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dean-m-ortiz-díaz-b82035225/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ortizdiazdeanm@gmail.com?subject=Contacto%20desde%20tu%20portafolio&body=Hola%20Dean,%0D%0A%0D%0AQuiero%20ponerme%20en%20contacto%20contigo.)
+
 <h2>:octocat: GitHub</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
