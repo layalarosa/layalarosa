@@ -1,35 +1,29 @@
 ## Software Developer | Backend Developer | Frontend Developer 
 
-
 👨‍💻 Full-Stack Developer with a passion for C# and .NET
 Hi! I'm a Full-Stack software and web developer with a strong affinity for C# and the .NET ecosystem. I specialize in building robust and scalable solutions, both on the frontend and backend. Currently, I work with technologies such as ASP.NET Core and Angular, leveraging modern tools like Entity Framework for database management, and Visual Studio as my preferred development environment. Additionally, I have experience with version control in Git and GitHub, which allows me to efficiently collaborate on projects of different scales.
 
-
-FrontEnd
+<h2>FrontEnd</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,angular,typescript,codepen)](https://skillicons.dev)
 
-BackEnd
+<h2>BackEnd</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
 
-Cloud
+<h2>Cloud</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
 
-Version Control 
+<h2>Version Control</h2> 
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
-
-
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Layalarosa&show_icons=true&locale=en&layout=compact" alt="layalarosa" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Layalarosa&" alt="layalarosa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Layalarosa&" alt="layalarosa" /></p>-->
-
-
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
@@ -60,7 +54,6 @@ Version Control
     </a>
 </div>
 <!--- trophy (start) -->
-
 
 </p>        
 <!--- stats (end) -->
