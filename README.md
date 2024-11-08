@@ -36,7 +36,7 @@ Hi! I'm a Full-Stack software and web developer with a strong affinity for C# an
       <h3>Portfolio</h3>
       <p>My personal portfolio where I showcase my projects and skills.</p>
       <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="HTML, Bootstrap, JS"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,bootstrap,js" alt="HTML, Bootstrap, JS"></a><br>
       <a href="https://professionalportfolio2024.netlify.app/">View project</a>
     </td>
   </tr>
@@ -48,7 +48,7 @@ Hi! I'm a Full-Stack software and web developer with a strong affinity for C# an
       <h3>Web Store</h3>
       <p>Porfolio</p>
       <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" alt="CS"></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" alt="CS"></a> 
       <br>
       <a href="https://github.com/layalarosa">View project</a>
     </td>
@@ -61,7 +61,7 @@ Hi! I'm a Full-Stack software and web developer with a strong affinity for C# an
       <h3>Weather App</h3>
       <p>Weather App in Html, Css, Javascript</p>
       <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,cs" alt="HTML, CSS, JS"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS"></a><br>
       <a href="https://github.com/layalarosa">View project</a>
     </td>
   </tr>
