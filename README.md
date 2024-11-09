@@ -50,7 +50,7 @@ Hi! I'm a Full-Stack software and web developer with a strong affinity for C# an
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" alt="CS"></a> 
       <br>
-      <a href="https://github.com/layalarosa">View project</a>
+      <a href="https://github.com/layalarosa/WebShop">View project</a>
     </td>
   </tr>
   <tr>
@@ -62,7 +62,43 @@ Hi! I'm a Full-Stack software and web developer with a strong affinity for C# an
       <p>Weather App in Html, Css, Javascript</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS"></a><br>
-      <a href="https://github.com/layalarosa">View project</a>
+      <a href="https://github.com/layalarosa/Vanilla_Weather_App">View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/CDeveloper.jpg" alt="Weather" width="300" height="200">
+    </td>
+    <td>
+      <h3>Extract Data</h3>
+      <p>Extract Data Excel to Sql (Source Code in Github)</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" alt="CS"></a><br>
+      <a href="https://github.com/layalarosa/Files">View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/Code4.png" alt="Weather" width="300" height="200">
+    </td>
+    <td>
+      <h3>Crud</h3>
+      <p>Crud in Html, Css, Typescript</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS"></a><br>
+      <a href="https://codepen.io/LayalaDev/full/wvRxgzp">View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/Code4.png" alt="Weather" width="300" height="200">
+    </td>
+    <td>
+      <h3>Ticket Manager</h3>
+      <p>Ticket Manager in Html, Css, Typescript</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS"></a><br>
+      <a href="https://codepen.io/LayalaDev/full/GRPXPxG">View project</a>
     </td>
   </tr>
 </table>
