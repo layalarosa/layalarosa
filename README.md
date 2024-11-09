@@ -85,7 +85,7 @@ Hi! I'm a Full-Stack software and web developer with a strong affinity for C# an
       <h3>Crud</h3>
       <p>Crud in Html, Css, Typescript</p>
       <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,ts" alt="HTML, CSS, TS"></a><br>
       <a href="https://codepen.io/LayalaDev/full/wvRxgzp">View project</a>
     </td>
   </tr>
@@ -97,7 +97,7 @@ Hi! I'm a Full-Stack software and web developer with a strong affinity for C# an
       <h3>Ticket Manager</h3>
       <p>Ticket Manager in Html, Css, Typescript</p>
       <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,ts" alt="HTML, CSS, TS"></a><br>
       <a href="https://codepen.io/LayalaDev/full/GRPXPxG">View project</a>
     </td>
   </tr>
