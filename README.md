@@ -62,7 +62,7 @@ Hi! I'm a Full-Stack software and web developer with a strong affinity for C# an
       <p>Weather App in Html, Css, Javascript</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS"></a><br>
-      <a href="https://github.com/layalarosa/Vanilla_Weather_App">View project</a>
+      <a href="https://weatherstation787.netlify.app">View project</a>
     </td>
   </tr>
   <tr>
