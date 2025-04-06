@@ -49,7 +49,7 @@
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" alt="CS"></a> 
       <br>
-      <a href="https://github.com/layalarosa">View project</a>
+      <a href="https://github.com/layalarosa/WebShop">View project</a>
     </td>
   </tr>
   <tr>
@@ -61,30 +61,48 @@
       <p>Weather App in Html, Css, Javascript</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS"></a><br>
-      <a href="https://github.com/layalarosa">View project</a>
+      <a href="https://weatherstation787.netlify.app">View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/CDeveloper.jpg" alt="Weather" width="300" height="200">
+    </td>
+    <td>
+      <h3>Extract Data</h3>
+      <p>Extract Data Excel to Sql (Source Code in Github)</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" alt="CS"></a><br>
+      <a href="https://github.com/layalarosa/Files">View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/Code4.png" alt="Weather" width="300" height="200">
+    </td>
+    <td>
+      <h3>Crud</h3>
+      <p>Crud in Html, Css, Typescript</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,ts" alt="HTML, CSS, TS"></a><br>
+      <a href="https://codepen.io/LayalaDev/full/wvRxgzp">View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/Code4.png" alt="Weather" width="300" height="200">
+    </td>
+    <td>
+      <h3>Ticket Manager</h3>
+      <p>Ticket Manager in Html, Css, Typescript</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,ts" alt="HTML, CSS, TS"></a><br>
+      <a href="https://codepen.io/LayalaDev/full/GRPXPxG">View project</a>
     </td>
   </tr>
 </table>
 
-<h2>:octocat: GitHub</h2>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=layalarosa&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=layalarosa&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
 </table>
 <!--- stats (end) -->
 
