@@ -24,7 +24,7 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
 
 <h2>AI</h2> 
 
-[![My Skills](https://skillicons.dev/icons?i=chatgpt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=openia)](https://skillicons.dev)
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Layalarosa&show_icons=true&locale=en&layout=compact" alt="layalarosa" /></p>
 
