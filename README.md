@@ -4,7 +4,7 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
 
 <h2>Database</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=SQL)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 <h2>BackEnd</h2>
 
