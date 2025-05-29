@@ -27,7 +27,7 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
 ## Projects
 
 <table>
-  <tr>
+  <!-- <tr>
     <td>
       <img src="assets/Porfolio.png" alt="Portfolio" width="300" height="200">
     </td>
@@ -38,7 +38,7 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,bootstrap,js" alt="HTML, Bootstrap, JS"></a><br>
       <a href="https://professionalportfolio2024.netlify.app/">View project</a>
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td>
       <img src="assets/Store.jpg" alt="Web Store" width="300" height="200">
