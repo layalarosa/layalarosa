@@ -116,7 +116,7 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
       <p>Display Animation in Html, Css, Javascript</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css, js" alt="HTML, CSS, JS"></a><br>
-      <a href="https://codepen.io/LayalaDev/full/GRPXPxG">View project</a>
+      <a href="https://codepen.io/LayalaDev/pen/PoXmdVY">View project</a>
     </td>
     <tr>
     <td>
@@ -127,7 +127,7 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
       <p>Ligth/Dark Mode in Html, Css, Javascript</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS"></a><br>
-      <a href="https://codepen.io/LayalaDev/full/GRPXPxG">View project</a>
+      <a href="https://codepen.io/LayalaDev/pen/RwEYEPZ">View project</a>
     </td>
   </tr>
 </table>
