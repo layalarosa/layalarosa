@@ -67,7 +67,7 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
       <h3>Web Store</h3>
       <p>Web Application MVC</p>
       <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" alt="CS"></a> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,cs" alt="HTML, CSS, CS"></a> 
       <br>
       <a href="https://github.com/layalarosa/WebShop">View project</a>
     </td>
