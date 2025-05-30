@@ -77,8 +77,8 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
       <img src="assets/CDeveloper.jpg" alt="Weather" width="300" height="200">
     </td>
     <td>
-      <h3>Extract Data</h3>
-      <p>Extract Data Excel to Sql (Source Code in Github)</p>
+      <h3>Feature Extract Data</h3>
+      <p>Feature Extract Data Excel to Sql</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" alt="CS"></a><br>
       <a href="https://github.com/layalarosa/Files">View project</a>
@@ -89,8 +89,8 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
       <img src="assets/Code4.png" alt="Weather" width="300" height="200">
     </td>
     <td>
-      <h3>Crud</h3>
-      <p>Crud in Html, Css, Typescript</p>
+      <h3>Feature Crud</h3>
+      <p>Feature Crud in Html, Css, Typescript</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,ts" alt="HTML, CSS, TS"></a><br>
       <a href="https://codepen.io/LayalaDev/full/wvRxgzp">View project</a>
@@ -101,8 +101,8 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
       <img src="assets/Code4.png" alt="Weather" width="300" height="200">
     </td>
     <td>
-      <h3>Ticket Manager</h3>
-      <p>Ticket Manager in Html, Css, Typescript</p>
+      <h3>Feature Ticket Manager</h3>
+      <p>Feature Ticket Manager in Html, Css, Typescript</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,ts" alt="HTML, CSS, TS"></a><br>
       <a href="https://codepen.io/LayalaDev/full/GRPXPxG">View project</a>
@@ -112,8 +112,8 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
       <img src="assets/Code4.png" alt="Weather" width="300" height="200">
     </td>
     <td>
-      <h3>Display Animation</h3>
-      <p>Display Animation in Html, Css, Javascript</p>
+      <h3>Feature Display Animation</h3>
+      <p>Feature Display Animation in Html, Css, Javascript</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS"></a><br>
       <a href="https://codepen.io/LayalaDev/pen/PoXmdVY">View project</a>
@@ -123,8 +123,8 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
       <img src="assets/Code4.png" alt="Weather" width="300" height="200">
     </td>
     <td>
-      <h3>Ligth/Dark Mode Toggle</h3>
-      <p>Ligth/Dark Mode in Html, Css, Javascript</p>
+      <h3>Feature Ligth/Dark Mode Toggle</h3>
+      <p>Feature Ligth/Dark Mode in Html, Css, Javascript</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS"></a><br>
       <a href="https://codepen.io/LayalaDev/pen/RwEYEPZ">View project</a>
