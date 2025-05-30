@@ -12,7 +12,7 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
 
 <h2>FrontEnd</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,angular,typescript,codepen)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,angular,typescript,codepen)](https://skillicons.dev)
 
 <h2>Cloud</h2>
 
@@ -20,11 +20,11 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
 
 <h2>Version Control</h2> 
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,bitbucket)](https://skillicons.dev)
 
-<h2>AI</h2> 
+<h2>IDE</h2> 
 
-[![My Skills](https://skillicons.dev/icons?i=openia)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Layalarosa&show_icons=true&locale=en&layout=compact" alt="layalarosa" /></p>
 
