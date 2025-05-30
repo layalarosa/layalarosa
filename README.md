@@ -49,6 +49,18 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
   </tr> -->
   <tr>
     <td>
+      <img src="assets/Weather.jpg" alt="Weather" width="300" height="200">
+    </td>
+    <td>
+      <h3>Weather App</h3>
+      <p>Weather App in Html, Css, Tailwind, Javascript</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js" alt="HTML, CSS, Tailwind, JS"></a><br>
+      <a href="https://weatherstation787.netlify.app">View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="assets/Store.jpg" alt="Web Store" width="300" height="200">
     </td>
     <td>
@@ -58,18 +70,6 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" alt="CS"></a> 
       <br>
       <a href="https://github.com/layalarosa/WebShop">View project</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="assets/Weather.jpg" alt="Weather" width="300" height="200">
-    </td>
-    <td>
-      <h3>Weather App</h3>
-      <p>Weather App in Html, Css, Javascript</p>
-      <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js" alt="HTML, CSS, JS"></a><br>
-      <a href="https://weatherstation787.netlify.app">View project</a>
     </td>
   </tr>
   <tr>
@@ -105,6 +105,28 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
       <p>Ticket Manager in Html, Css, Typescript</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,ts" alt="HTML, CSS, TS"></a><br>
+      <a href="https://codepen.io/LayalaDev/full/GRPXPxG">View project</a>
+    </td>
+    <tr>
+    <td>
+      <img src="assets/Code4.png" alt="Weather" width="300" height="200">
+    </td>
+    <td>
+      <h3>Display Animation</h3>
+      <p>Display Animation in Html, Css, Javascript</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css, js" alt="HTML, CSS, JS"></a><br>
+      <a href="https://codepen.io/LayalaDev/full/GRPXPxG">View project</a>
+    </td>
+    <tr>
+    <td>
+      <img src="assets/Code4.png" alt="Weather" width="300" height="200">
+    </td>
+    <td>
+      <h3>Ligth/Dark Mode Toggle</h3>
+      <p>Ligth/Dark Mode in Html, Css, Javascript</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS"></a><br>
       <a href="https://codepen.io/LayalaDev/full/GRPXPxG">View project</a>
     </td>
   </tr>
