@@ -43,18 +43,6 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
 ## Projects
 
 <table>
-  <!-- <tr>
-    <td>
-      <img src="assets/Porfolio.png" alt="Portfolio" width="300" height="200">
-    </td>
-    <td>
-      <h3>Portfolio</h3>
-      <p>Portfolio</p>
-      <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,bootstrap,js" alt="HTML, Bootstrap, JS"></a><br>
-      <a href="https://professionalportfolio2024.netlify.app/">View project</a>
-    </td>
-  </tr> -->
   <tr>
     <td>
       <img src="assets/Weather.jpg" alt="Weather" width="300" height="200">
@@ -138,6 +126,30 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
       <a href="https://codepen.io/LayalaDev/pen/RwEYEPZ">View project</a>
     </td>
   </tr>
+  <!-- <tr>
+    <td>
+      <img src="assets/Porfolio.png" alt="Figma" width="300" height="200">
+    </td>
+    <td>
+      <h3>Web Design Figma</h3>
+      <p>Portfolio</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" alt="FIGMA"></a><br>
+      <a href="">View Preview</a>
+    </td>
+  </tr> -->
+  <tr>
+    <td>
+      <img src="assets/Figma.png" alt="Figma" width="300" height="200">
+    </td>
+    <td>
+      <h3>Web Design Figma</h3>
+      <p>Web Design Figma</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" alt="FIGMA"></a><br>
+      <a href="https://www.figma.com/design/9zleCvBuwUTfXpOcENip6B/Web-Design-01?node-id=0-1&t=pJo7Myd42OVLyLj1-1">View Preview</a>
+    </td>
+  </tr> 
 </table>
 
 
