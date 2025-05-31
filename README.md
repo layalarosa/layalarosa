@@ -34,12 +34,6 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
 
 [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Layalarosa&show_icons=true&locale=en&layout=compact" alt="layalarosa" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Layalarosa&" alt="layalarosa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Layalarosa&" alt="layalarosa" /></p>-->
-
 ## Projects
 
 <table>
@@ -153,16 +147,5 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
 </table>
 
 
-</table>
-<!--- stats (end) -->
+     
 
-<!--- trophy (start) -->
-<!--<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=layalarosa&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>-->
-<!--- trophy (start) -->
-
-</p>        
-<!--- stats (end) -->
