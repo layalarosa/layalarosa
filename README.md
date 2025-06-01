@@ -122,7 +122,7 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
   </tr>
   <tr>
     <td>
-      <img src="assets/Porfolio.png" alt="Figma" width="300" height="200">
+      <img src="assets/Figma.png" alt="Figma" width="300" height="200">
     </td>
     <td>
       <h3>Mobile Design Figma</h3>
