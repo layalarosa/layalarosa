@@ -120,18 +120,18 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
       <a href="https://codepen.io/LayalaDev/pen/RwEYEPZ">View project</a>
     </td>
   </tr>
-  <!-- <tr>
+  <tr>
     <td>
       <img src="assets/Porfolio.png" alt="Figma" width="300" height="200">
     </td>
     <td>
-      <h3>Web Design Figma</h3>
-      <p>Portfolio</p>
+      <h3>Mobile Design Figma</h3>
+      <p>Mobile Design Figma</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" alt="FIGMA"></a><br>
-      <a href="">View Preview</a>
+      <a href="https://www.figma.com/design/B0Fp3SXFy3bBtVEOzkwbfS/Mobile-Design-01?node-id=0-1&t=cPJFkqHU1HGFZH4b-1">View Preview</a>
     </td>
-  </tr> -->
+  </tr> 
   <tr>
     <td>
       <img src="assets/Figma.png" alt="Figma" width="300" height="200">
