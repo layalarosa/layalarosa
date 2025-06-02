@@ -64,7 +64,7 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
   </tr>
   <tr>
     <td>
-      <img src="assets/html-css.png" alt="Weather" width="300" height="200">
+      <img src="assets/Store.jpg" alt="Weather" width="300" height="200">
     </td>
     <td>
       <h3>Feature Extract Data</h3>
@@ -146,7 +146,7 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
   </tr> 
   <tr>
     <td>
-      <img src="assets/Figma.png" alt="Figma" width="300" height="200">
+      <img src="assets/html-css.png" alt="Figma" width="300" height="200">
     </td>
     <td>
       <h3>Modal</h3>
