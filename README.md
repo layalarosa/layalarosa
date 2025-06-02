@@ -64,7 +64,7 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
   </tr>
   <tr>
     <td>
-      <img src="assets/Store.jpg" alt="Weather" width="300" height="200">
+      <img src="assets/CDeveloper.jpg" alt="Weather" width="300" height="200">
     </td>
     <td>
       <h3>Feature Extract Data</h3>
