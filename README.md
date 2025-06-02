@@ -144,6 +144,18 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
       <a href="https://www.figma.com/design/9zleCvBuwUTfXpOcENip6B/Web-Design-01?node-id=0-1&t=pJo7Myd42OVLyLj1-1">View Preview</a>
     </td>
   </tr> 
+  <tr>
+    <td>
+      <img src="assets/Figma.png" alt="Figma" width="300" height="200">
+    </td>
+    <td>
+      <h3>Modal</h3>
+      <p>Web Modal Code Test</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css" alt="HTML, CSS"></a><br>
+      <a href="https://github.com/layalarosa/css-card-2">View Preview</a>
+    </td>
+  </tr> 
 </table>
 
 
