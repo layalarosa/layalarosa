@@ -51,6 +51,18 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
   </tr>
   <tr>
     <td>
+      <img src="assets/CDeveloper.jpg" alt="Weather" width="300" height="200">
+    </td>
+    <td>
+      <h3>Feature Extract Data</h3>
+      <p>Feature Extract Data Excel to Sql</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" alt="CS"></a><br>
+      <a href="https://github.com/layalarosa/Files">View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="assets/Store.jpg" alt="Web Store" width="300" height="200">
     </td>
     <td>
@@ -60,18 +72,6 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,cs" alt="HTML, CSS, CS"></a> 
       <br>
       <a href="https://github.com/layalarosa/WebShop">View project</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="assets/CDeveloper.jpg" alt="Weather" width="300" height="200">
-    </td>
-    <td>
-      <h3>Feature Extract Data</h3>
-      <p>Feature Extract Data Excel to Sql</p>
-      <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" alt="CS"></a><br>
-      <a href="https://github.com/layalarosa/Files">View project</a>
     </td>
   </tr>
   <tr>
