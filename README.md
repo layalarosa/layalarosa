@@ -150,12 +150,24 @@ Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# a
     </td>
     <td>
       <h3>Modal</h3>
-      <p>Web Modal Code Test</p>
+      <p>Web Modal Code</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css" alt="HTML, CSS"></a><br>
       <a href="https://github.com/layalarosa/css-card-2">View Preview</a>
     </td>
   </tr> 
+  <tr>
+    <td>
+      <img src="assets/html-css.png" alt="Figma" width="300" height="200">
+    </td>
+    <td>
+      <h3>Grid</h3>
+      <p>Grid</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css" alt="HTML, CSS"></a><br>
+      <a href="https://github.com/layalarosa/grid">View Preview</a>
+    </td>
+  </tr>
 </table>
 
 
