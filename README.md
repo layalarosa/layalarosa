@@ -26,10 +26,6 @@ Software Developer with a strong affinity for C# and the .NET ecosystem. I speci
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
 
-<h2>Design</h2> 
-
-[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,illustrator)](https://skillicons.dev)
-
 <h2>Game Code</h2> 
 
 [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
