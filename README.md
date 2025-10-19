@@ -1,6 +1,7 @@
 ## Software Engineer | Software Developer | Web Developer 
 
-Full-Stack Developer. I'm a full-stack developer with a strong affinity for C# and the .NET ecosystem. I specialize in building both front- and back-end solutions. I work with technologies like ASP.NET Core and Angular, utilizing modern tools like Entity Framework for database management and Visual Studio as my preferred development environment. Additionally, I have experience working with Git and GitHub for version control, allowing me to collaborate efficiently on projects of any scale. I also have experience developing in other languages, allowing me to adapt to different needs and technologies depending on the project.
+I'm a developer specializing in creating front-end and back-end solutions, using modern tools for efficient database management.
+I have experience with Git and GitHub for version control, which allows me to collaborate in an agile and organized manner on projects of any size. Additionally, I've worked with various programming languages, which gives me the ability to adapt to different technologies and requirements according to the needs of the project.
 
 <h2>Database</h2>
 
