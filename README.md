@@ -36,6 +36,17 @@ I have experience with Git and GitHub for version control, which allows me to co
 <table>
   <tr>
     <td>
+      <img src="assets/Crm.png" alt="Weather" width="300" height="200">
+    </td>
+    <td>
+      <h3>Saas</h3>
+      <p>Saas React, Tailwind, Typescript</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,ts" alt="React, Tailwind, TS"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="assets/Weather.jpg" alt="Weather" width="300" height="200">
     </td>
     <td>
@@ -51,7 +62,7 @@ I have experience with Git and GitHub for version control, which allows me to co
       <img src="assets/CDeveloper.jpg" alt="Weather" width="300" height="200">
     </td>
     <td>
-      <h3>Feature Extract Data</h3>
+      <h3>Extract Data</h3>
       <p>Feature Extract Data Excel to Sql</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" alt="CS"></a><br>
@@ -63,7 +74,7 @@ I have experience with Git and GitHub for version control, which allows me to co
       <img src="assets/Store.jpg" alt="Web Store" width="300" height="200">
     </td>
     <td>
-      <h3>Web Store</h3>
+      <h3>Ecommerce</h3>
       <p>Web Application MVC</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,cs" alt="HTML, CSS, CS"></a> 
