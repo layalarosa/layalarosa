@@ -36,10 +36,21 @@ I have experience with Git and GitHub for version control, which allows me to co
 <table>
   <tr>
     <td>
-      <img src="assets/Crm.png" alt="Weather" width="300" height="200">
+      <img src="assets/Crm.png" alt="Seo" width="300" height="200">
     </td>
     <td>
-      <h3>Saas</h3>
+      <h3>Seo Saas</h3>
+      <p>Saas React, Tailwind, Typescript</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,ts" alt="React, Tailwind, TS"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/Crm.png" alt="Crm" width="300" height="200">
+    </td>
+    <td>
+      <h3>Lyra Crm Saas</h3>
       <p>Saas React, Tailwind, Typescript</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,ts" alt="React, Tailwind, TS"></a><br>
@@ -59,7 +70,7 @@ I have experience with Git and GitHub for version control, which allows me to co
   </tr>
   <tr>
     <td>
-      <img src="assets/CDeveloper.jpg" alt="Weather" width="300" height="200">
+      <img src="assets/CDeveloper.jpg" alt="Extract" width="300" height="200">
     </td>
     <td>
       <h3>Extract Data</h3>
