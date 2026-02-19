@@ -9,7 +9,7 @@ I have experience with Git and GitHub for version control, which allows me to co
 
 <h2>BackEnd</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python)](https://skillicons.dev)
 
 <h2>FrontEnd</h2>
 
