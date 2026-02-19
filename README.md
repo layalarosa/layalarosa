@@ -36,7 +36,7 @@ I have experience with Git and GitHub for version control, which allows me to co
 <table>
   <tr>
     <td>
-      <img src="assets/Crm.png" alt="Seo" width="300" height="200">
+      <img src="assets/Seo.jpg" alt="Seo" width="300" height="200">
     </td>
     <td>
       <h3>Seo Saas</h3>
