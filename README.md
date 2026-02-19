@@ -62,8 +62,8 @@ I have experience with Git and GitHub for version control, which allows me to co
       <img src="assets/Massage.png" alt="Massage" width="300" height="200">
     </td>
     <td>
-      <h3>Massage Web</h3>
-      <p>Weather Web in Html, Css, Tailwind, Javascript</p>
+      <h3>Web</h3>
+      <p>Web in Html, Css, Tailwind, Javascript</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js" alt="HTML, CSS, Tailwind, JS"></a><br>
       <a href="https://damianmassage.com/">View</a>
