@@ -1,7 +1,52 @@
 ## Software Engineer | Software Developer | Web Developer 
 
-I'm a developer specializing in creating front-end and back-end solutions, using modern tools for efficient database management.
-I have experience with Git and GitHub for version control, which allows me to collaborate in an agile and organized manner on projects of any size. Additionally, I've worked with various programming languages, which gives me the ability to adapt to different technologies and requirements according to the needs of the project.
+Soy desarrollador especializado en la creación de soluciones front-end y back-end, utilizando herramientas modernas para la gestión eficiente de bases de datos. Tengo experiencia con Git y GitHub para el control de versiones, lo que me permite colaborar de forma ágil y organizada en proyectos de cualquier tamaño. Además, he trabajado con diversos lenguajes de programación, lo que me permite adaptarme a diferentes tecnologías y requisitos según las necesidades del proyecto.
+
+He desarrollado múltiples aplicaciones enfocadas en resolver problemas reales de negocio, automatizar procesos y mejorar la presencia digital de empresas.
+
+🔎 Plataforma SEO SaaS
+
+Sistema web para análisis y optimización SEO que permite:
+
+Analizar palabras clave
+
+Auditar sitios web
+
+Monitorear posiciones en buscadores
+
+Ideal para agencias o negocios que desean mejorar su visibilidad online.
+
+🧾 Sistema CRM (Lyra CRM)
+
+Plataforma para gestionar:
+
+Clientes
+
+Cotizaciones
+
+Información administrativa
+
+Permite centralizar la operación del negocio en una sola herramienta.
+
+📊 Automatización de Datos
+
+Sistema que convierte datos de Excel en información estructurada dentro de bases de datos SQL, reduciendo errores manuales y tiempo operativo.
+
+🛒 Ecommerce Web
+
+Aplicación web para venta de productos con estructura organizada y escalable.
+
+🌐 Desarrollo Web Corporativo
+
+Creación de sitios web profesionales:
+
+Diseño moderno
+
+Responsive
+
+Optimización básica para buscadores
+
+Enfoque en conversión
 
 <h2>Database</h2>
 
