@@ -42,7 +42,7 @@ I have experience with Git and GitHub for version control, which allows me to co
       <h3>Seo Saas</h3>
       <p>Saas React, Tailwind, Typescript</p>
       <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,ts" alt="React, Tailwind, TS"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,ts,postgres" alt="React, Tailwind, TS"></a><br>
     </td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ I have experience with Git and GitHub for version control, which allows me to co
       <h3>Lyra Crm Saas</h3>
       <p>Saas React, Tailwind, Typescript</p>
       <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,ts" alt="React, Tailwind, TS"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,ts,nextjs,python,supabase" alt="React, Tailwind, TS"></a><br>
       <a href="https://lyra-crm.com/">View</a>
     </td>
   </tr>
