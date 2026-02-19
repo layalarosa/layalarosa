@@ -5,7 +5,7 @@ I have experience with Git and GitHub for version control, which allows me to co
 
 <h2>Database</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=SQL,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqllite,postgres)](https://skillicons.dev)
 
 <h2>BackEnd</h2>
 
