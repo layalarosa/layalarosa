@@ -96,7 +96,7 @@ I have experience with Git and GitHub for version control, which allows me to co
   </tr>
   <tr>
     <td>
-      <img src="assets/Store.jpg" alt="Web Store" width="300" height="200">
+      <img src="assets/Porfolio.jpg" alt="Web Store" width="300" height="200">
     </td>
     <td>
       <h3>Porfolio</h3>
