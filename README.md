@@ -5,17 +5,17 @@ I have experience with Git and GitHub for version control, which allows me to co
 
 <h2>Database</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mssql,postgres,supabase)](https://skillicons.dev)
 
 <h2>BackEnd</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,nextjs,node)](https://skillicons.dev)
 
 <h2>FrontEnd</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,angular,typescript,codepen)](https://skillicons.dev)
 
-<h2>Cloud</h2>
+<h2>Cloud and Deploy</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=azure,vercel,netlify)](https://skillicons.dev)
 
@@ -40,9 +40,9 @@ I have experience with Git and GitHub for version control, which allows me to co
     </td>
     <td>
       <h3>Seo Saas</h3>
-      <p>Saas React, Tailwind, Typescript</p>
+      <p>Saas React, Tailwind, Typescript, nextjs, postgres, supabase</p>
       <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,ts,postgres" alt="React, Tailwind, TS"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,ts,postgres,nextjs,supabase" alt="React, Tailwind, TS"></a><br>
     </td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@ I have experience with Git and GitHub for version control, which allows me to co
     </td>
     <td>
       <h3>Lyra Crm Saas</h3>
-      <p>Saas React, Tailwind, Typescript</p>
+      <p>Saas React, Tailwind, Typescript, nextjs, postgres, supabase</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,ts,nextjs,python,supabase" alt="React, Tailwind, TS"></a><br>
       <a href="https://lyra-crm.com/">View</a>
