@@ -17,7 +17,7 @@ I have experience with Git and GitHub for version control, which allows me to co
 
 <h2>Cloud</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,versel,netlify)](https://skillicons.dev)
 
 <h2>Version Control</h2> 
 
