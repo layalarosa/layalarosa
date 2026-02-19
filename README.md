@@ -54,18 +54,19 @@ I have experience with Git and GitHub for version control, which allows me to co
       <p>Saas React, Tailwind, Typescript</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,ts" alt="React, Tailwind, TS"></a><br>
+      <a href="https://lyra-crm.com/">View</a>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="assets/Weather.jpg" alt="Weather" width="300" height="200">
+      <img src="assets/Massage.png" alt="Massage" width="300" height="200">
     </td>
     <td>
-      <h3>Weather Web</h3>
+      <h3>Massage Web</h3>
       <p>Weather Web in Html, Css, Tailwind, Javascript</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js" alt="HTML, CSS, Tailwind, JS"></a><br>
-      <!-- <a href="https://weatherstation787.netlify.app">View project</a> -->
+      <a href="https://damianmassage.com/">View</a>
     </td>
   </tr>
   <tr>
@@ -91,6 +92,19 @@ I have experience with Git and GitHub for version control, which allows me to co
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,cs" alt="HTML, CSS, CS"></a> 
       <br>
       <a href="https://github.com/layalarosa/WebShop">View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/Store.jpg" alt="Web Store" width="300" height="200">
+    </td>
+    <td>
+      <h3>Porfolio</h3>
+      <p>Web</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,cs" alt="HTML, CSS, CS"></a> 
+      <br>
+      <a href="https://layalarosa.net">View</a>
     </td>
   </tr>
 </table>
