@@ -47,7 +47,7 @@ I have experience with Git and GitHub for version control, which allows me to co
   </tr>
   <tr>
     <td>
-      <img src="assets/Crm.png" alt="Crm" width="300" height="200">
+      <img src="assets/Lyra.png" alt="Crm" width="300" height="200">
     </td>
     <td>
       <h3>Lyra Crm Saas</h3>
