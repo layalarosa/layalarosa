@@ -53,7 +53,7 @@ I have experience with Git and GitHub for version control, which allows me to co
       <h3>Lyra Crm Saas</h3>
       <p>Saas React, Tailwind, Typescript, nextjs, postgres, supabase</p>
       <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,ts,nextjs,python,supabase" alt="React, Tailwind, TS"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,ts,nextjs,python,postgres,supabase" alt="React, Tailwind, TS"></a><br>
       <a href="https://lyra-crm.com/">View</a>
     </td>
   </tr>
