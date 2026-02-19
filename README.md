@@ -4,7 +4,7 @@ Soy desarrollador especializado en la creación de soluciones front-end y back-e
 
 He desarrollado múltiples aplicaciones enfocadas en resolver problemas reales de negocio, automatizar procesos y mejorar la presencia digital de empresas.
 
-🔎 Plataforma SEO SaaS
+## Plataforma SEO SaaS
 
 Sistema web para análisis y optimización SEO que permite:
 
@@ -16,7 +16,7 @@ Monitorear posiciones en buscadores
 
 Ideal para agencias o negocios que desean mejorar su visibilidad online.
 
-🧾 Sistema CRM (Lyra CRM)
+## Sistema CRM (Lyra CRM)
 
 Plataforma para gestionar:
 
@@ -28,15 +28,15 @@ Información administrativa
 
 Permite centralizar la operación del negocio en una sola herramienta.
 
-📊 Automatización de Datos
+## Automatización de Datos
 
 Sistema que convierte datos de Excel en información estructurada dentro de bases de datos SQL, reduciendo errores manuales y tiempo operativo.
 
-🛒 Ecommerce Web
+## Ecommerce Web
 
 Aplicación web para venta de productos con estructura organizada y escalable.
 
-🌐 Desarrollo Web Corporativo
+## Desarrollo Web Corporativo
 
 Creación de sitios web profesionales:
 
