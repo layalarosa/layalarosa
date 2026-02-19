@@ -100,7 +100,7 @@ I have experience with Git and GitHub for version control, which allows me to co
     </td>
     <td>
       <h3>Porfolio</h3>
-      <p>Web</p>
+      <p>Web in Html, Css, Tailwind, Javascript</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js" alt="HTML, CSS, Tailwind, JS"></a> 
       <br>
