@@ -85,7 +85,7 @@ Enfoque en conversión
     </td>
     <td>
       <h3>Fishin Sentinel Saas</h3>
-      <p>Saas React, Tailwind, Typescript, nextjs, postgres, supabase</p>
+      <p>Saas python, postgres, supabase</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,postgres,supabase" alt="React, Tailwind, TS"></a><br>
     </td>
