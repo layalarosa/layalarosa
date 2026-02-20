@@ -4,6 +4,20 @@ Soy desarrollador especializado en la creación de soluciones front-end y back-e
 
 He desarrollado múltiples aplicaciones enfocadas en resolver problemas reales de negocio, automatizar procesos y mejorar la presencia digital de empresas.
 
+## Fishin Sentinel SaaS
+
+Plataforma SaaS inteligente para monitoreo y análisis de datos que permite:
+
+Procesar y analizar información en tiempo real
+
+Detectar patrones mediante modelos de IA en Python
+
+Gestionar datos de forma segura con PostgreSQL
+
+Integrar autenticación y backend en la nube con Supabase
+
+Ideal para proyectos que requieren análisis automatizado, escalabilidad y arquitectura moderna basada en inteligencia artificial.
+
 ## Plataforma SEO SaaS
 
 Sistema web para análisis y optimización SEO que permite:
