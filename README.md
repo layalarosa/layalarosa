@@ -81,6 +81,17 @@ Enfoque en conversión
 <table>
   <tr>
     <td>
+      <img src="assets/IA.png" alt="IA" width="300" height="200">
+    </td>
+    <td>
+      <h3>Fishin Sentinel Saas</h3>
+      <p>Saas React, Tailwind, Typescript, nextjs, postgres, supabase</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,ts,postgres,nextjs,supabase" alt="React, Tailwind, TS"></a><br>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="assets/Seo.jpg" alt="Seo" width="300" height="200">
     </td>
     <td>
