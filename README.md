@@ -4,32 +4,6 @@ Soy desarrollador especializado en la creación de soluciones front-end y back-e
 
 He desarrollado múltiples aplicaciones enfocadas en resolver problemas reales de negocio, automatizar procesos y mejorar la presencia digital de empresas.
 
-## Fishin Sentinel SaaS
-
-Plataforma SaaS inteligente para monitoreo y análisis de datos que permite:
-
-Procesar y analizar información en tiempo real
-
-Detectar patrones mediante modelos de IA en Python
-
-Gestionar datos de forma segura con PostgreSQL
-
-Integrar autenticación y backend en la nube con Supabase
-
-Ideal para proyectos que requieren análisis automatizado, escalabilidad y arquitectura moderna basada en inteligencia artificial.
-
-## Plataforma SEO SaaS
-
-Sistema web para análisis y optimización SEO que permite:
-
-Analizar palabras clave
-
-Auditar sitios web
-
-Monitorear posiciones en buscadores
-
-Ideal para agencias o negocios que desean mejorar su visibilidad online.
-
 ## Sistema CRM (Lyra CRM)
 
 Plataforma para gestionar:
@@ -98,10 +72,10 @@ Enfoque en conversión
       <img src="assets/IA.png" alt="IA" width="300" height="200">
     </td>
     <td>
-      <h3>Fishin Sentinel Saas</h3>
-      <p>Saas python, postgres, supabase</p>
+      <h3>Auto Data Pipeline con IA (Python)</h3>
+      <p>python</p>
       <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,postgres,supabase" alt="React, Tailwind, TS"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="React, Tailwind, TS"></a><br>
     </td>
   </tr>
   <tr>
@@ -109,10 +83,10 @@ Enfoque en conversión
       <img src="assets/Seo.jpg" alt="Seo" width="300" height="200">
     </td>
     <td>
-      <h3>Seo Saas</h3>
-      <p>Saas React, Tailwind, Typescript, nextjs, postgres, supabase</p>
+      <h3>Agentes de IA en Python</h3>
+      <p>python</p>
       <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,ts,postgres,nextjs,supabase" alt="React, Tailwind, TS"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="React, Tailwind, TS"></a><br>
     </td>
   </tr>
   <tr>
