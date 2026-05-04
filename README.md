@@ -80,7 +80,7 @@ Enfoque en conversión
   </tr>
   <tr>
     <td>
-      <img src="assets/Seo.jpg" alt="Seo" width="300" height="200">
+      <img src="assets/IA.png" alt="Seo" width="300" height="200">
     </td>
     <td>
       <h3>Agentes de IA en Python</h3>
