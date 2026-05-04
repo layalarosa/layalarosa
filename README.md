@@ -110,7 +110,7 @@ Enfoque en conversión
       <p>Web in Html, Css, Tailwind, Javascript</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js" alt="HTML, CSS, Tailwind, JS"></a><br>
-      <a href="https://damianmassage.com/">View</a>
+      <a href="https://damianmassage.netlify.app/">View</a>
     </td>
   </tr>
   <tr>
