@@ -4,38 +4,6 @@ Soy desarrollador especializado en la creación de soluciones front-end y back-e
 
 He desarrollado múltiples aplicaciones enfocadas en resolver problemas reales de negocio, automatizar procesos y mejorar la presencia digital de empresas.
 
-## Sistema CRM (Lyra CRM)
-
-Plataforma para gestionar:
-
-Clientes
-
-Cotizaciones
-
-Información administrativa
-
-Permite centralizar la operación del negocio en una sola herramienta.
-
-## Automatización de Datos
-
-Sistema que convierte datos de Excel en información estructurada dentro de bases de datos SQL, reduciendo errores manuales y tiempo operativo.
-
-## Ecommerce Web
-
-Aplicación web para venta de productos con estructura organizada y escalable.
-
-## Desarrollo Web Corporativo
-
-Creación de sitios web profesionales:
-
-Diseño moderno
-
-Responsive
-
-Optimización básica para buscadores
-
-Enfoque en conversión
-
 <h2>Database</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,supabase)](https://skillicons.dev)
