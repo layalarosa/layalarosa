@@ -43,7 +43,7 @@ He desarrollado múltiples aplicaciones enfocadas en resolver problemas reales d
       <h3>Auto Data Pipeline con IA (Python)</h3>
       <p>python</p>
       <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="React, Tailwind, TS"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="React, Tailwind, TS"></a><br><a href="https://github.com/layalarosa/adp-ia">View project</a>
     </td>
   </tr>
   <tr>
@@ -54,7 +54,7 @@ He desarrollado múltiples aplicaciones enfocadas en resolver problemas reales d
       <h3>Agentes de IA en Python</h3>
       <p>python</p>
       <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="React, Tailwind, TS"></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="React, Tailwind, TS"></a><br><a href="https://github.com/layalarosa/ia-agents">View project</a>
     </td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ He desarrollado múltiples aplicaciones enfocadas en resolver problemas reales d
       <p>Saas React, Tailwind, Typescript, nextjs, postgres, supabase</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,ts,nextjs,python,postgres,supabase" alt="React, Tailwind, TS"></a><br>
-      <a href="https://lyra-crm.com/">View</a>
+      <a href="https://lyra-crm.com/">View project</a>
     </td>
   </tr>
   <tr>
@@ -78,7 +78,7 @@ He desarrollado múltiples aplicaciones enfocadas en resolver problemas reales d
       <p>Web in Html, Css, Tailwind, Javascript</p>
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js" alt="HTML, CSS, Tailwind, JS"></a><br>
-      <a href="https://damianmassage.netlify.app/">View</a>
+      <a href="https://damianmassage.netlify.app/">View project</a>
     </td>
   </tr>
   <tr>
@@ -116,7 +116,7 @@ He desarrollado múltiples aplicaciones enfocadas en resolver problemas reales d
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js" alt="HTML, CSS, Tailwind, JS"></a> 
       <br>
-      <a href="https://layalarosa.net">View</a>
+      <a href="https://layalarosa.net">View project</a>
     </td>
   </tr>
 </table>
