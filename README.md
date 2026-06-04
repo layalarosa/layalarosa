@@ -87,6 +87,18 @@ I am passionate about continuous learning, technological innovation, and integra
   </tr>
   <tr>
     <td>
+      <img src="assets/Massage.png" alt="Massage" width="300" height="200">
+    </td>
+    <td>
+      <h3>Web</h3>
+      <p>Web in Html, Css, Tailwind, Javascript</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js" alt="HTML, CSS, Tailwind, JS"></a><br>
+      <a href="https://moonlitcandles.netlify.app/">View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="assets/CDeveloper.jpg" alt="Extract" width="300" height="200">
     </td>
     <td>
