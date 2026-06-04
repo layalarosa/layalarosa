@@ -132,7 +132,7 @@ I am passionate about continuous learning, technological innovation, and integra
       <strong>Technologies:</strong><br>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js" alt="HTML, CSS, Tailwind, JS"></a> 
       <br>
-      <a href="https://layalarosa.net">View project</a>
+      <a href="https://layalarosa.netlify.app/">View project</a>
     </td>
   </tr>
 </table>
