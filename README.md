@@ -1,8 +1,12 @@
 ## Software Engineer | Software Developer | Web Developer 
 
-Soy desarrollador especializado en la creación de soluciones front-end y back-end, utilizando herramientas modernas para la gestión eficiente de bases de datos. Tengo experiencia con Git y GitHub para el control de versiones, lo que me permite colaborar de forma ágil y organizada en proyectos de cualquier tamaño. Además, he trabajado con diversos lenguajes de programación, lo que me permite adaptarme a diferentes tecnologías y requisitos según las necesidades del proyecto.
+Hello, I'm a software developer specializing in creating front-end and back-end solutions, using modern technologies for application development and efficient database management.
 
-He desarrollado múltiples aplicaciones enfocadas en resolver problemas reales de negocio, automatizar procesos y mejorar la presencia digital de empresas.
+I have experience using Git and GitHub for version control, which allows me to collaborate in an agile, organized, and efficient manner on development teams and projects of varying sizes.
+
+Furthermore, I have worked with diverse programming languages ​​and frameworks, enabling me to quickly adapt to different technologies and business needs. Throughout my career, I have developed numerous applications designed to solve real-world problems, automate processes, optimize operations, and strengthen the digital presence of organizations and companies.
+
+I am passionate about continuous learning, technological innovation, and integrating AI-based solutions to create high-impact, high-value products.
 
 <h2>Database</h2>
 
