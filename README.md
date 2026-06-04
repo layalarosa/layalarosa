@@ -87,7 +87,7 @@ I am passionate about continuous learning, technological innovation, and integra
   </tr>
   <tr>
     <td>
-      <img src="assets/Massage.png" alt="Massage" width="300" height="200">
+      <img src="assets/Moonlit.png" alt="Massage" width="300" height="200">
     </td>
     <td>
       <h3>Web</h3>
