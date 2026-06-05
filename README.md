@@ -124,7 +124,7 @@ I am passionate about continuous learning, technological innovation, and integra
   </tr>
   <tr>
     <td>
-      <img src="assets/Porfolio2.jpg" alt="Web Store" width="300" height="200">
+      <img src="assets/Porfolio2.png" alt="Web Store" width="300" height="200">
     </td>
     <td>
       <h3>Porfolio</h3>
