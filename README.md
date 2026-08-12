@@ -44,21 +44,10 @@ I am passionate about continuous learning, technological innovation, and integra
       <img src="assets/IA.png" alt="IA" width="300" height="200">
     </td>
     <td>
-      <h3>Auto Data Pipeline con IA (Python)</h3>
+      <h3>AI CLI (Python)</h3>
       <p>python</p>
       <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="React, Tailwind, TS"></a><br><a href="https://github.com/layalarosa/adp-ia">View project</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="assets/IA.png" alt="Seo" width="300" height="200">
-    </td>
-    <td>
-      <h3>Agentes de IA en Python</h3>
-      <p>python</p>
-      <strong>Technologies:</strong><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="React, Tailwind, TS"></a><br><a href="https://github.com/layalarosa/ia-agents">View project</a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="React, Tailwind, TS"></a><br><a href="https://github.com/layalarosa/mini-cli">View project</a>
     </td>
   </tr>
   <tr>
