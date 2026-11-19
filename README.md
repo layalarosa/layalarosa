@@ -1,4 +1,4 @@
-<h5>Luis A Ayala Rosa</h5>
+<h1>Luis A Ayala Rosa</h1>
 
 Software developer building web applications and practical AI tools
 I work across frontend and backend development, building web applications and software tools with technologies such as C#, .NET, Python, React, Next.js, and PostgreSQL. I am also exploring applied AI through projects involving assistants, data workflows, and retrieval-based systems.
