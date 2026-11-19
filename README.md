@@ -1,50 +1,131 @@
-# Luis Ayala Rosa
+## Software Engineer | Software Developer | Web Developer 
 
-### Software developer building web applications and practical AI tools
+Hello, I'm a software developer specializing in creating front-end and back-end solutions, using modern technologies for application development and efficient database management.
 
-I work across frontend and backend development, building web applications and software tools with technologies such as C#, .NET, Python, React, Next.js, and PostgreSQL. I am also exploring applied AI through projects involving assistants, data workflows, and retrieval-based systems.
+I have experience using Git and GitHub for version control, which allows me to collaborate in an agile, organized, and efficient manner on development teams and projects of varying sizes.
 
-[Portfolio](https://layalarosa.netlify.app/) � [GitHub](https://github.com/layalarosa)
+Furthermore, I have worked with diverse programming languages ​​and frameworks, enabling me to quickly adapt to different technologies and business needs. Throughout my career, I have developed numerous applications designed to solve real-world problems, automate processes, optimize operations, and strengthen the digital presence of organizations and companies.
 
-## Selected projects
+I am passionate about continuous learning, technological innovation, and integrating AI-based solutions to create high-impact, high-value products.
 
-### [Lyra CRM](https://lyra-crm.com/)
+<h2>Database</h2>
 
-A CRM SaaS project built with React, Next.js, TypeScript, Tailwind CSS, and Supabase/PostgreSQL. The project also includes a Python-based AI assistant.
+[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,supabase)](https://skillicons.dev)
 
-**Stack:** React � Next.js � TypeScript � Tailwind CSS � Python � Supabase
+<h2>BackEnd</h2>
 
-### [AI CLI](https://github.com/layalarosa/mini-cli)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,nextjs,node)](https://skillicons.dev)
 
-A Python command-line project exploring AI-assisted workflows.
+<h2>FrontEnd</h2>
 
-**Stack:** Python
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,angular,typescript,codepen)](https://skillicons.dev)
 
-### [Excel to SQL data extraction](https://github.com/layalarosa/Files)
+<h2>Cloud and Deploy</h2>
 
-A C# utility focused on extracting data from Excel files for use with SQL.
+[![My Skills](https://skillicons.dev/icons?i=azure,vercel,netlify)](https://skillicons.dev)
 
-**Stack:** C# � SQL
+<h2>Version Control</h2> 
 
-### [MVC WebShop](https://github.com/layalarosa/WebShop)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,bitbucket)](https://skillicons.dev)
 
-An ecommerce application built with the MVC pattern.
+<h2>IDE</h2> 
 
-**Stack:** C# � HTML � CSS
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
 
-### [Personal portfolio](https://layalarosa.netlify.app/)
+<h2>Game Code</h2> 
 
-A personal portfolio site built with HTML, CSS, Tailwind CSS, and JavaScript.
+[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 
-## Technical skills
+## Projects
 
-- **Languages:** C#, Python, JavaScript, TypeScript
-- **Backend:** .NET, Node.js
-- **Frontend:** React, Next.js, Angular, HTML, CSS, Tailwind CSS
-- **Data:** PostgreSQL, SQL Server, Supabase
-- **Tools and platforms:** Git, GitHub Actions, Azure, Vercel, Netlify, Visual Studio, VS Code
+<table>
+  <tr>
+    <td>
+      <img src="assets/IA.png" alt="IA" width="300" height="200">
+    </td>
+    <td>
+      <h3>AI CLI (Python)</h3>
+      <p>python</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="React, Tailwind, TS"></a><br><a href="https://github.com/layalarosa/mini-cli">View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/Lyra.png" alt="Crm" width="300" height="200">
+    </td>
+    <td>
+      <h3>Lyra Crm Saas</h3>
+      <p>Saas React, Tailwind, Typescript, nextjs, postgres, supabase</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,ts,nextjs,python,postgres,supabase" alt="React, Tailwind, TS"></a><br>
+      <a href="https://lyra-crm.com/">View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/Massage.png" alt="Massage" width="300" height="200">
+    </td>
+    <td>
+      <h3>Web</h3>
+      <p>Web in Html, Css, Tailwind, Javascript</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js" alt="HTML, CSS, Tailwind, JS"></a><br>
+      <a href="https://damianmassage.netlify.app/">View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/Moonlit.png" alt="Massage" width="300" height="200">
+    </td>
+    <td>
+      <h3>Web</h3>
+      <p>Web in Html, Css, Tailwind, Javascript</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js" alt="HTML, CSS, Tailwind, JS"></a><br>
+      <a href="https://moonlitcandles.netlify.app/">View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/CDeveloper.jpg" alt="Extract" width="300" height="200">
+    </td>
+    <td>
+      <h3>Extract Data</h3>
+      <p>Feature Extract Data Excel to Sql</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" alt="CS"></a><br>
+      <a href="https://github.com/layalarosa/Files">View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/Store.jpg" alt="Web Store" width="300" height="200">
+    </td>
+    <td>
+      <h3>Ecommerce</h3>
+      <p>Web Application MVC</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,cs" alt="HTML, CSS, CS"></a> 
+      <br>
+      <a href="https://github.com/layalarosa/WebShop">View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/Porfolio2.png" alt="Web Store" width="300" height="200">
+    </td>
+    <td>
+      <h3>Porfolio</h3>
+      <p>Web in Html, Css, Tailwind, Javascript</p>
+      <strong>Technologies:</strong><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js" alt="HTML, CSS, Tailwind, JS"></a> 
+      <br>
+      <a href="https://layalarosa.netlify.app/">View project</a>
+    </td>
+  </tr>
+</table>
 
-## Areas of interest
 
-Applied AI, retrieval-augmented generation (RAG), software architecture, and data-driven applications.
+     
 
