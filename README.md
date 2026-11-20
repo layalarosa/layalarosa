@@ -1,12 +1,7 @@
-## Software Engineer | Software Developer | Web Developer 
+<h1>Luis A Ayala Rosa</h1>
 
-Hello, I'm a software developer specializing in creating front-end and back-end solutions, using modern technologies for application development and efficient database management.
-
-I have experience using Git and GitHub for version control, which allows me to collaborate in an agile, organized, and efficient manner on development teams and projects of varying sizes.
-
-Furthermore, I have worked with diverse programming languages ​​and frameworks, enabling me to quickly adapt to different technologies and business needs. Throughout my career, I have developed numerous applications designed to solve real-world problems, automate processes, optimize operations, and strengthen the digital presence of organizations and companies.
-
-I am passionate about continuous learning, technological innovation, and integrating AI-based solutions to create high-impact, high-value products.
+Software developer building web applications and practical AI tools
+I work across frontend and backend development, building web applications and software tools with technologies such as C#, .NET, Python, React, Next.js, and PostgreSQL. I am also exploring applied AI through projects involving assistants, data workflows, and retrieval-based systems.
 
 <h2>Database</h2>
 
